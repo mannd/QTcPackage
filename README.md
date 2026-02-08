@@ -4,7 +4,7 @@
 This QTc Swift package includes a multitude of formulas for QTc and QTp calculation, both common and obscure.  It is intended for use in iOS and macOS programs.  It is written in Swift but can be used in Objective C projects.  This library is free to use in your own apps and programs.  Usages include designing simple QTc calculators to medical research involving calculated QTc and QTp intervals.  For more background on this project, see the blog post [Hacking the QTc](https://www.epstudiossoftware.com/hacking-the-qtc/).
 
 ## Versions
-Version 3.6.0 changes the product name from QTcPackage to QTc.  This
+Version 3.6.1 changes the product name from QTcPackage to QTc.  This
 is more compatible with the CocoaPod, in that you can use:
 ```
 import QTc
